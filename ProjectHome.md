@@ -1,0 +1,1 @@
+Emotional Data Structures is the coolest team in the 2013 class of the University of Minnesota's Masters of Software Engineering program.
